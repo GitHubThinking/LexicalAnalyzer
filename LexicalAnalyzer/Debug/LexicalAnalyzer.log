@@ -1,0 +1,8 @@
+﻿  lexical_analyzer.cpp
+f:\01-vsdemo\lexicalanalyzer\lexicalanalyzer\lexical_analyzer.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+f:\01-vsdemo\lexicalanalyzer\lexicalanalyzer\lexical_analyzer.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+f:\01-vsdemo\lexicalanalyzer\lexicalanalyzer\lexical_analyzer.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+f:\01-vsdemo\lexicalanalyzer\lexicalanalyzer\lexical_analyzer.cpp(427): warning C4018: “<”: 有符号/无符号不匹配
+f:\01-vsdemo\lexicalanalyzer\lexicalanalyzer\lexical_analyzer.cpp(582): warning C4018: “<”: 有符号/无符号不匹配
+  LINK : 没有找到 F:\01-VsDemo\LexicalAnalyzer\Debug\LexicalAnalyzer.exe 或上一个增量链接没有生成它；正在执行完全链接
+  LexicalAnalyzer.vcxproj -> F:\01-VsDemo\LexicalAnalyzer\Debug\LexicalAnalyzer.exe

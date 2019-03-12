@@ -1,0 +1,30 @@
+int main()
+{
+	string filename ;
+	vector< pair<int, string> >  v = analyse(restore);
+	int  _num = 10;
+	double _doublenum = 5.5;
+	int num2 = +7;
+	double n_3 = -99999.9999;
+	float Big_num = 3.8E+9;
+	float Reverse_num = -6.6E+40;
+	
+	//运算检验
+	int sum_1 = 5+9;
+	int sum_2 =99.9+0.1;
+	int D_value = 100 - 0.5;
+	sum_1 = sum_1*sume2;
+	D_value = sum_1/sume2;
+	sum_1 = sum_1%sume2;
+	/*
+	综合检验
+	*/
+	while(true){
+	      if( (5 == 6 ) && (8>=9) || (10<7)) {		
+		cout<<sum_1<<endl;
+	      }
+	     break;      
+	}
+	
+	return 0;
+}
